@@ -1,0 +1,1 @@
+print("essa rede ta de sacanagem")
